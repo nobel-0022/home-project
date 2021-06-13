@@ -1,0 +1,21 @@
+*{
+  box-sizing: border-box;
+  font-family: 'PT Sans Caption', sans-serif;
+}
+.navbar-nav{
+  margin-left: auto;
+
+}
+
+.imgcenterd{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  right: 50%;
+  font-size: 50px;
+  color: lightblack;
+  transform: translate(-50%,-50%);
+ opacity: 0.5;
+ padding: 10px;
+
+}
